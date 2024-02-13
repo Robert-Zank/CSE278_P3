@@ -1,0 +1,12 @@
+Write a few sentences about your coding experience here (The difficulty level of this project for you, how this project improved your learning object-oriented programming in C++.)) (at least five sentences to get full points )
+
+Your reflection :
+The level of this project was about a 6.8/10 suprisingly, after how challenging I found the last project.
+This project solidified some of the understanding on how c++ works in the background. I had lots of trouble
+with zyook as I usually do, but it helped me understand zylab better as well. I now have a much better understanding
+of how you can use objects within other objects. After this code, I have a much better understanding of how and where  
+certain variables are accessable. As well, this project has helped me understand how important it is to come up with 
+a plan when coding bigger projects. As you can see in my code a couple methods are a lot longer than the others. 
+This is because I did the whole project in one method and the split it up into parts. This made the project twice as 
+difficult, and I will never make that mistake again. I also grasped a better understanding of Makefiles and how they
+work in coherision with modular compiling. 
